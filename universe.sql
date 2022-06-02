@@ -325,7 +325,7 @@ INSERT INTO public.planet VALUES (3, 'Planet B1', 'Name of Planet B1', true, tru
 INSERT INTO public.planet VALUES (4, 'Planet B2', 'Name of Planet B2', true, true, 666, 2);
 INSERT INTO public.planet VALUES (5, 'Planet C1', 'Name of Planet C1', true, true, 666, 3);
 INSERT INTO public.planet VALUES (6, 'Planet C2', 'Name of Planet C2', true, true, 666, 3);
-INSERT INTO public.planet VALUES (7, 'Planet C1', 'Name of Planet C1', true, true, 666, 4);
+INSERT INTO public.planet VALUES (7, 'Planet D1', 'Name of Planet D1', true, true, 666, 4);
 INSERT INTO public.planet VALUES (8, 'Planet D2', 'Name of Planet D2', true, true, 666, 4);
 INSERT INTO public.planet VALUES (9, 'Planet E1', 'Name of Planet E1', true, true, 666, 5);
 INSERT INTO public.planet VALUES (10, 'Planet E2', 'Name of Planet E2', true, true, 666, 5);
